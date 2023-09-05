@@ -1,3 +1,5 @@
 turmas prof Lilian
 
-6ºs anos A e B
+6º ano A
+
+6º ano B
